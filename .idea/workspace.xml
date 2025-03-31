@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9daffed0-c236-4c9a-b19b-ee237b6291e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Connect4/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Connect4/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Connect4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/CandidateExe/AvailablePositions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/CandidateExe/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/CrewMember.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/FamilyDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/Nurse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/Shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/SpecialistDoctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/Treated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/MovieExe/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/MovieExe/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PersonExe/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Agency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Office.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/PrivateHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Propety.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SecondPriceProposalExe/Auction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SecondPriceProposalExe/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SecondPriceProposalExe/Proposal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SongExe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SongExe/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SongExe/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/HW1/Exe1_IDcheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/HW1/Exe2Wordle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson1/ClassExe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/BankSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/Ex1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/LimitedBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/OverdraftAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/Fun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe4/Playlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe4/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Try.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Episode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/LiveShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Show.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/TvShow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson12/Exe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson12/Exe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson12/Exe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson2/IfElseExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson3/forWhileExercises.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson4/functions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson5/array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson6/Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson6/array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson7/stringsExe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex1/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex1/ChildMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/CityDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/ExBucket/Bucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/ExClock/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/ExClock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex1/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex1/UserMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex2/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex2/HotelMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex2/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex3/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/SmartphoneExe/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/SmartphoneExe/SmartphoneMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/TestPrep/ShaiFile/Exe17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester1/TestPreperation/Exes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/Amit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStageFinal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/MainScene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/XO_Game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/XO_Game/MainScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/ExeGrafics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/MainContent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/Player.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2v5BiJLdItjETiNeGg3s0WjJRl8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ex3.executor": "Run",
+    "Application.Ex4.executor": "Run",
+    "Application.ExeGrafics.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/CompSc/CompSc/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/CompSc/CompSc/src/main/java/Semester2/OOP1/Lesson1/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CompSc\CompSc\src\main\java" />
+      <recent name="C:\CompSc\CompSc\src\main" />
+      <recent name="C:\CompSc\CompSc\src" />
+      <recent name="C:\CompSc\CompSc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExeGrafics">
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson1.Ex3" />
+      <module name="CompSc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semester2.OOP1.Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson1.Ex4" />
+      <module name="CompSc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semester2.OOP1.Lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExeGrafics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson2.ExeGrafics.ExeGrafics" />
+      <module name="CompSc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson2.ExeGrafics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExeGrafics" />
+        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.Ex3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9daffed0-c236-4c9a-b19b-ee237b6291e6" name="Changes" comment="" />
+      <created>1743425183421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743425183421</updated>
+      <workItem from="1743425184524" duration="8699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
