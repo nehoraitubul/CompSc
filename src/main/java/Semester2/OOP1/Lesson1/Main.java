@@ -77,6 +77,7 @@ class Ex3{
                     throw new RuntimeException(e);
                 }
             }
+
             System.out.println();
             int timeSleep = rnd.nextInt(400,4000);
             try {
