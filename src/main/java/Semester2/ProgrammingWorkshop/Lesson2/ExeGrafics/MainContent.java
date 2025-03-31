@@ -19,6 +19,7 @@ public class MainContent extends JPanel {
         this.player1.paint(g);
     }
 
+
     public void moveRight(){
         new Thread(() -> {
             while (true){
