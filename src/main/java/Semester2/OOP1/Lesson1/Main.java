@@ -125,8 +125,9 @@ class Ex4{
             for (int i = 0; i < names.length; i++) {
                 currDate = date.getTime();
                 if (i == bot){
-                    str = faker.expression(str);
-                    System.out.println("*BOT*");
+                    String response = faker.expression("I love ");
+                    str = response + str;
+                    System.out.print("*BOT* ");
                 } else {
                     str = faker.shakespeare().hamletQuote();
                 }

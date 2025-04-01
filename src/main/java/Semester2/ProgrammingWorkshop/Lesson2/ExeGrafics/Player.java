@@ -27,6 +27,10 @@ public class Player {
         this.y++;
     }
 
+    public int getX() {
+        return this.x;
+    }
+
     public void paint(Graphics g){
         g.setColor(Color.BLUE);
         g.fillRect(this.x,this.y,100,100);

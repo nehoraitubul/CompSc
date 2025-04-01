@@ -16,7 +16,7 @@ public class ExeGrafics {
 
         Menu menu = new Menu(0,0, WINDOW_WIDTH/4, WINDOW_HEIGHT);
 
-        MainContent mainContent = new MainContent(WINDOW_WIDTH/4,0, WINDOW_WIDTH - WINDOW_HEIGHT/4, WINDOW_HEIGHT);
+        MainContent mainContent = new MainContent(WINDOW_WIDTH/4,0, WINDOW_WIDTH - WINDOW_WIDTH/4, WINDOW_HEIGHT);
 
         window.add(mainContent);
         window.add(menu);
