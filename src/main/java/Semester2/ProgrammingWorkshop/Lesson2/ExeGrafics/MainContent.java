@@ -5,10 +5,12 @@ import java.awt.*;
 
 public class MainContent extends JPanel {
     private Player player1;
+    private int width;
     private boolean movingRight = true;
 
     public MainContent(int x, int y, int width, int height){
         this.setBounds(x,y,width,height);
+        this.width = width;
         this.setBackground(new Color(177, 164, 118));
 
         this.player1 = new Player(100,100);
@@ -24,9 +26,8 @@ public class MainContent extends JPanel {
     public void startMoving(){
         new Thread(() -> {
             while (true){
-                int panelWidth = this.getWidth();
 
-                if (player1.getX() + 100 >= panelWidth) {
+                if (player1.getX() + 100 >= this.width) {
                     movingRight = false;
                 } else if (player1.getX() <= 0) {
                     movingRight = true;
@@ -39,8 +40,8 @@ public class MainContent extends JPanel {
                 }
 
                 try {
-                    Thread.sleep(5);
                     repaint();
+                    Thread.sleep(5);
                 } catch (InterruptedException e) {
                     throw new RuntimeException(e);
                 }
