@@ -4,20 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9daffed0-c236-4c9a-b19b-ee237b6291e6" name="Changes" comment="REGULAR">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Fork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/MainPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/MainWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Philosof.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Waiter.java" afterDir="false" />
+    <list default="true" id="9daffed0-c236-4c9a-b19b-ee237b6291e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/ProductNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/Salesman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/Fork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Fork.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/Philosof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Philosof.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Waiter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,23 +26,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;nehoraitubul&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nehoraitubul"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/nehoraitubul/CompSc.git&quot;,
-    &quot;accountId&quot;: &quot;b074d52b-4306-44ec-9b76-0f9c85562e79&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nehoraitubul/CompSc.git",
+    "accountId": "9a085c3f-d4e7-4024-89a5-2cecb2ecd065"
   }
-}</component>
+}]]></component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2v5BiJLdItjETiNeGg3s0WjJRl8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -61,17 +59,13 @@
     "Application.Ex4.executor": "Run",
     "Application.ExeGrafics.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.MainWindow.executor": "Run",
-    "Application.Semester2.OOP1.Lesson4.PhilosofProblem.Main.executor": "Run",
-    "Application.Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main.executor": "Run",
-    "Application.Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.Main.executor": "Run",
-    "Application.Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main.executor": "Run",
-    "Application.Semester2.ProgrammingWorkshop.Lesson5.API.Main.executor": "Run",
+    "Application.Semester2.OOP1.Lesson3.SalesmanSolve.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/CompSc/CompSc/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo",
+    "last_opened_file_path": "C:/CompSc/CompSc/src/main/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,24 +77,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\CompSc\CompSc\src\main\java\Semester2\OOP1\Lesson4\PhilosofProblem\SwingPhilo" />
       <recent name="C:\CompSc\CompSc\src\main\java" />
       <recent name="C:\CompSc\CompSc\src\main" />
       <recent name="C:\CompSc\CompSc\src" />
       <recent name="C:\CompSc\CompSc" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\CompSc\CompSc\src\main\java\Semester2\ProgrammingWorkshop\Lesson4\ImageManipulation\desLines" />
-      <recent name="C:\CompSc\CompSc\src\main\java\Semester2\ProgrammingWorkshop\Lesson4\ImageManipulation" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.MainWindow">
-    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson4.PhilosofProblem.SwingPhilo.MainWindow" />
+  <component name="RunManager" selected="Application.Semester2.OOP1.Lesson3.SalesmanSolve.Main">
+    <configuration name="Ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson1.Ex3" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.OOP1.Lesson4.PhilosofProblem.SwingPhilo.*" />
+          <option name="PATTERN" value="Semester2.OOP1.Lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main" />
+    <configuration name="Ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson1.Ex4" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.*" />
+          <option name="PATTERN" value="Semester2.OOP1.Lesson1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.Main" />
+    <configuration name="ExeGrafics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson2.ExeGrafics.ExeGrafics" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.*" />
+          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson2.ExeGrafics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson4.PhilosofProblem.Main" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.*" />
+          <option name="PATTERN" value="Semester2.OOP1.Lesson4.PhilosofProblem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semester2.ProgrammingWorkshop.Lesson5.API.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson5.API.Main" />
+    <configuration name="Semester2.OOP1.Lesson3.SalesmanSolve.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson3.SalesmanSolve.Main" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson5.API.*" />
+          <option name="PATTERN" value="Semester2.OOP1.Lesson3.SalesmanSolve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,19 +151,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainWindow" />
-        <item itemvalue="Application.Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main" />
-        <item itemvalue="Application.Semester2.ProgrammingWorkshop.Lesson5.API.Main" />
-        <item itemvalue="Application.Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main" />
-        <item itemvalue="Application.Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.Main" />
+        <item itemvalue="Application.Semester2.OOP1.Lesson3.SalesmanSolve.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ExeGrafics" />
+        <item itemvalue="Application.Ex4" />
+        <item itemvalue="Application.Ex3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -186,44 +175,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743425183421</updated>
-      <workItem from="1743425184524" duration="20722000" />
-      <workItem from="1745238024664" duration="7633000" />
-      <workItem from="1745841685835" duration="6739000" />
-      <workItem from="1746447190744" duration="7102000" />
-      <workItem from="1746859469564" duration="7935000" />
+      <workItem from="1743425184524" duration="8699000" />
     </task>
-    <task id="LOCAL-00001" summary="REGULAR">
-      <option name="closed" value="true" />
-      <created>1743451654697</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743451654697</updated>
-    </task>
-    <task id="LOCAL-00002" summary="REGULAR">
-      <option name="closed" value="true" />
-      <created>1743451858719</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1743451858719</updated>
-    </task>
-    <task id="LOCAL-00003" summary="REGULAR">
-      <option name="closed" value="true" />
-      <created>1743452353908</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743452353908</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="REGULAR" />
-    <option name="LAST_COMMIT_MESSAGE" value="REGULAR" />
   </component>
 </project>
