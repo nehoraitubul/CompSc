@@ -1,4 +1,4 @@
-package Semester2.OOP1.Lesson4.PhilosofProblem;
+package Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing;
 
 import java.util.ArrayList;
 import java.util.List;
