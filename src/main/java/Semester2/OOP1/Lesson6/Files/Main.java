@@ -21,7 +21,7 @@ public class Main {
             Scanner scanner = new Scanner(file);
             System.out.println(scanner.nextLine());
             FileWriter fileWriter = new FileWriter(file);
-            fileWriter.write("ניגה");
+            fileWriter.write("cv");
 
             fileWriter.close();
         } catch (Exception e) {
