@@ -1,6 +1,7 @@
 package Semester2.OOP1.Lesson6.FileExeTitanic;
 
 import java.util.List;
+import java.util.stream.Stream;
 
 public class Passenger {
     private Integer passengerId;
@@ -32,6 +33,30 @@ public class Passenger {
         this.cabin = cabin;
     }
 
+    public String toString() {
+        return "Name: " + name + ", ID: " + passengerId +
+                ", Age: " + age + ", Sex: " + sex +
+                ", Class: " + pClass + ", Fare: " + fare;
+    }
+
+    public Object getFieldValue(Types type) {
+        switch (type) {
+            case PASSENGER_ID: return passengerId;
+            case SURVIVED: return survived;
+            case P_CLASS: return pClass;
+            case NAME: return name;
+            case SEX: return sex;
+            case AGE: return age;
+            case SIB_SP: return sibSp;
+            case PARCH: return parch;
+            case TICKET: return ticket;
+            case FARE: return fare;
+            case CABIN: return cabin;
+            case EMBARKED: return embarked;
+            default: return null;
+        }
+    }
+
     public String getFormattedName(){
         String fullName = "";
         String[] words = this.name.split(" ", 3);
@@ -41,11 +66,21 @@ public class Passenger {
         return fullName;
     }
 
-    public String searchAsName(String name){
-        if (this.name.split(",")[0].equals(name)){
-            return this.getFormattedName();
+
+    public <T> boolean search(Types type, T value) {
+        Object fieldValue = getFieldValue(type);
+        if (fieldValue == null || value == null) {
+            return false;
         }
-        return null;
+
+        if (fieldValue instanceof String && value instanceof String) {
+            String fieldStr = (String) fieldValue;
+            String searchStr = (String) value;
+            return fieldStr.toLowerCase().contains(searchStr.toLowerCase());
+        }
+        else {
+            return fieldValue.equals(value);
+        }
     }
 
 

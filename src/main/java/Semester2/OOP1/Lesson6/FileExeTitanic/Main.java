@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args) {
 
         try{
-            File file = new File("C:\\CompSc\\CompSc\\src\\main\\java\\Semester2\\OOP1\\Lesson6\\FileExeTitanic\\titanic.csv");
+            File file = new File("C:\\Users\\nehor\\IdeaProjects\\CompSc\\src\\main\\java\\Semester2\\OOP1\\Lesson6\\FileExeTitanic\\titanic.csv");
             if (!file.exists()){
                 System.out.println("File Not Found!");
             }
@@ -27,8 +27,8 @@ public class Main {
                 int secondQuoteIndex = currLine.indexOf("\"", firstQuoteIndex + 1);
 
                 String[] currLineArr = currLine.split(",", -1);
-                System.out.println("numm" + currLineArr.length);
-                System.out.println(currLine);
+//                System.out.println("numm" + currLineArr.length);
+//                System.out.println(currLine);
                 Passenger passenger = new Passenger(
                         Integer.getInteger(currLineArr[1]),
                         Integer.getInteger(currLineArr[0]),
@@ -47,19 +47,31 @@ public class Main {
             }
 
             System.out.println(passengersList.get(1).getFormattedName());
-
-            System.out.println("תן שם:");
             Scanner sc = new Scanner(System.in);
-            String name = sc.next();
-            List<String> names = new ArrayList<>();
-            for (Passenger p : passengersList){
-                String foundName = p.searchAsName(name);
-                if (foundName != null){
-                    names.add(name);
+
+            while (true){
+                System.out.println("תבחר מספר 1-2 (אחכ אסדר את זה)");
+                int input = sc.nextInt();
+
+                System.out.println("לפי איזה ערך אתה רוצה לחפש?");
+                String searchInput = sc.next();
+                Types selectedType = intToTypes(input);
+//            List<Passenger> passengers = new ArrayList<>();
+//            if (selectedType != null){
+//                for (Passenger p : passengersList){
+//                    Passenger foundPassenger = p.search(selectedType, searchInput);
+//                    if (foundPassenger != null){
+//                        passengers.add(foundPassenger);
+//                    }
+//                }
+//            }
+                List<Passenger> passengers = passengersList.stream()
+                        .filter(p -> p.search(selectedType, searchInput))
+                        .toList();
+
+                for (Passenger p : passengers){
+                    System.out.println(p);
                 }
-            }
-            for (String n : names){
-                System.out.print(n + ", ");
             }
 
         } catch (Exception e) {
@@ -68,6 +80,24 @@ public class Main {
 
 
 
+    }
+
+    public static Types intToTypes(int num){
+        switch (num) {
+            case 1: return Types.PASSENGER_ID;
+            case 2: return Types.SURVIVED;
+            case 3: return Types.P_CLASS;
+            case 4: return Types.NAME;
+            case 5: return Types.SEX;
+            case 6: return Types.AGE;
+            case 7: return Types.SIB_SP;
+            case 8: return Types.PARCH;
+            case 9: return Types.TICKET;
+            case 10: return Types.FARE;
+            case 11: return Types.CABIN;
+            case 12: return Types.EMBARKED;
+            default: return null;
+        }
     }
 
 }
