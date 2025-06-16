@@ -4,14 +4,175 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9daffed0-c236-4c9a-b19b-ee237b6291e6" name="Changes" comment="REGULAR">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson5/Seker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson5/Seker/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson5/Seker/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson6/TelegramBot/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson6/TelegramBot/MyBot.java" afterDir="false" />
+    <list default="true" id="9daffed0-c236-4c9a-b19b-ee237b6291e6" name="Changes" comment="regular">
+      <change afterPath="$PROJECT_DIR$/env.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/BackupManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/CsvTaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/EnvLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/MyBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/TaskEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonalProjects/TelegramBotAAC/UserState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson7/IsraeliQueueExe/IsraeliQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson7/IsraeliQueueExe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson7/IsraeliQueueExe/QueueElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson3/MovingGrafics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson7/API_TB/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Connect4/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Connect4/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Connect4/Constant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Connect4/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Connect4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Connect4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/CandidateExe/AvailablePositions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/CandidateExe/AvailablePositions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/CandidateExe/Candidate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/CandidateExe/Candidate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/CrewMember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/HospitalExe/CrewMember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/FamilyDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/HospitalExe/FamilyDoctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/Nurse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/HospitalExe/Nurse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/Shift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/HospitalExe/Shift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/SpecialistDoctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/HospitalExe/SpecialistDoctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/HospitalExe/Treated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/HospitalExe/Treated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/MovieExe/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/MovieExe/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/MovieExe/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/MovieExe/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PersonExe/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/PersonExe/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Agency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/PropetyExe/Agency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Office.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/PropetyExe/Office.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/PrivateHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/PropetyExe/PrivateHouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Propety.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/PropetyExe/Propety.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/PropetyExe/Seller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/PropetyExe/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/PropetyExe/Warehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SecondPriceProposalExe/Auction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/SecondPriceProposalExe/Auction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SecondPriceProposalExe/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/SecondPriceProposalExe/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SecondPriceProposalExe/Proposal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/SecondPriceProposalExe/Proposal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SongExe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/SongExe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SongExe/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/SongExe/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/ExamPrep2/SongExe/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/ExamPrep2/SongExe/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/HW1/Exe1_IDcheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/HW1/Exe1_IDcheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/HW1/Exe2Wordle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/HW1/Exe2Wordle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson1/ClassExe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson1/ClassExe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex1/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/BankSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex1/BankSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/Ex1Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex1/Ex1Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/LimitedBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex1/LimitedBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/OverdraftAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex1/OverdraftAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex1/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex1/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex2/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex2/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Truck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex2/Truck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson10/Ex2/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson10/Ex2/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/ExampleTest/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/ExampleTest/Exe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/ExampleTest/Exe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/ExampleTest/Exe4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/ExampleTest/Exe5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/ExampleTest/Exe5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/Fun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/Fun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Exe2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe2/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Exe2/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Exe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Exe4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe4/Playlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Exe4/Playlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Exe4/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Exe4/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/JavaPrepExam/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/JavaPrepExam/Try.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Episode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/SummaryExe/Episode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/LiveShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/SummaryExe/LiveShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/SummaryExe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/SummaryExe/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/Show.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/SummaryExe/Show.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson11/SummaryExe/TvShow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson11/SummaryExe/TvShow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson12/Exe1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson12/Exe1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson12/Exe2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson12/Exe2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson12/Exe3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson12/Exe3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson2/IfElseExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson2/IfElseExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson3/forWhileExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson3/forWhileExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson4/functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson4/functions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson5/array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson5/array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson6/Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson6/Objects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson6/array2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson6/array2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson7/stringsExe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson7/stringsExe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex1/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex1/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex1/ChildMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex1/ChildMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex2/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex2/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex2/Team.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex2/Team.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/CityDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex3/CityDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/Delivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex3/Delivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/Ex3/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/Ex3/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/ExBucket/Bucket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/ExBucket/Bucket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/ExClock/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/ExClock/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson8/ExClock/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson8/ExClock/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex1/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/Ex1/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex1/UserMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/Ex1/UserMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex2/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/Ex2/Hotel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex2/HotelMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/Ex2/HotelMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex2/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/Ex2/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/Ex3/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/Ex3/CarMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/Ex3/CarMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/SmartphoneExe/Smartphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/SmartphoneExe/Smartphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/Lesson9/SmartphoneExe/SmartphoneMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/Lesson9/SmartphoneExe/SmartphoneMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/TestPrep/ShaiFile/Exe17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/TestPrep/ShaiFile/Exe17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester1/TestPreperation/Exes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester1/TestPreperation/Exes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson2/LightSimolator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson2/LightSimolator/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson2/LightSimolator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson2/LightSimolator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson2/LightSimolator/TrafficLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson2/LightSimolator/TrafficLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/Lists_Salesman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/Lists_Salesman/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/Lists_Salesman/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/Lists_Salesman/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/Lists_Salesman/Salesman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/Lists_Salesman/Salesman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/Lists_Salesman/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/Lists_Salesman/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/SalesmanSolve/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/ProductNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/SalesmanSolve/ProductNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/Salesman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/SalesmanSolve/Salesman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson3/SalesmanSolve/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson3/SalesmanSolve/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Fork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Fork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Philosof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Philosof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Fork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Fork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/MainPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/MainPanel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/MainWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/MainWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Philosof.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Philosof.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo/Waiter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson4/PhilosofProblem/NoSwing/Waiter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson5/Seker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson5/Seker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson5/Seker/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson5/Seker/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson5/Seker/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson5/Seker/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson6/Enums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson6/Enums/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson6/FileExeTitanic/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson6/FileExeTitanic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson6/FileExeTitanic/Passenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson6/FileExeTitanic/Passenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson6/FileExeTitanic/Types.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson6/FileExeTitanic/Types.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson6/FileExeTitanic/titanic.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson6/FileExeTitanic/titanic.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/OOP1/Lesson6/Files/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/OOP1/Lesson6/Files/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/Amit.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/Amit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage2.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage3.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStage4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStageFinal.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/EggStageFinal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/MainScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/EggTapping/MainScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/XO_Game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/XO_Game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson1/XO_Game/MainScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson1/XO_Game/MainScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/ExeGrafics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/ExeGrafics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/MainContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/MainContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson2/ExeGrafics/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson3/MovingGrafics/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson3/MovingGrafics/Scene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson3/MovingGrafics/Scene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson4/ImageManipulation/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson4/ImageManipulation/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson4/ImageManipulation/desLines/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson4/ImageManipulation/desLines/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson4/ImageManipulation/desLines/cake.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson4/ImageManipulation/desLines/cake.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson5/API/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson5/API/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson5/API/PostAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson5/API/PostAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson6/TelegramBot/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson6/TelegramBot/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Semester2/ProgrammingWorkshop/Lesson6/TelegramBot/MyBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Year1/Semester2/ProgrammingWorkshop/Lesson6/TelegramBot/MyBot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +182,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -37,14 +199,20 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/nehoraitubul/CompSc.git&quot;,
-    &quot;accountId&quot;: &quot;b074d52b-4306-44ec-9b76-0f9c85562e79&quot;
+    &quot;accountId&quot;: &quot;9a085c3f-d4e7-4024-89a5-2cecb2ecd065&quot;
   }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2v5BiJLdItjETiNeGg3s0WjJRl8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,16 +224,18 @@
     &quot;Application.ExeGrafics.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MainWindow.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Semester2.OOP1.Lesson4.PhilosofProblem.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Semester2.ProgrammingWorkshop.Lesson5.API.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersonalProjects.TelegramBotAAC.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Semester2.OOP1.Lesson3.SalesmanSolve.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Semester2.OOP1.Lesson6.FileExeTitanic.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Year1.Semester2.OOP1.Lesson3.SalesmanSolve.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Year1.Semester2.OOP1.Lesson5.Seker.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Year1.Semester2.OOP1.Lesson6.FileExeTitanic.Main.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/CompSc/CompSc/src/main/java/Semester2/OOP1/Lesson4/PhilosofProblem/SwingPhilo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nehor/IdeaProjects/CompSc&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -77,24 +247,20 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\CompSc\CompSc\src\main\java\Semester2\OOP1\Lesson4\PhilosofProblem\SwingPhilo" />
+      <recent name="C:\Users\nehor\IdeaProjects\CompSc" />
       <recent name="C:\CompSc\CompSc\src\main\java" />
       <recent name="C:\CompSc\CompSc\src\main" />
       <recent name="C:\CompSc\CompSc\src" />
       <recent name="C:\CompSc\CompSc" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\CompSc\CompSc\src\main\java\Semester2\ProgrammingWorkshop\Lesson4\ImageManipulation\desLines" />
-      <recent name="C:\CompSc\CompSc\src\main\java\Semester2\ProgrammingWorkshop\Lesson4\ImageManipulation" />
-    </key>
   </component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson6.TelegramBot.Main" />
+      <option name="MAIN_CLASS_NAME" value="Year1.Semester2.OOP1.Lesson7.IsraeliQueueExe.Main" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson6.TelegramBot.*" />
+          <option name="PATTERN" value="Year1.Semester2.OOP1.Lesson7.IsraeliQueueExe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +269,11 @@
       </method>
     </configuration>
     <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson4.PhilosofProblem.SwingPhilo.MainWindow" />
+      <option name="MAIN_CLASS_NAME" value="Year1.Semester2.OOP1.Lesson4.PhilosofProblem.SwingPhilo.MainWindow" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.OOP1.Lesson4.PhilosofProblem.SwingPhilo.*" />
+          <option name="PATTERN" value="Year1.Semester2.OOP1.Lesson4.PhilosofProblem.SwingPhilo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main" />
+    <configuration name="PersonalProjects.TelegramBotAAC.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonalProjects.TelegramBotAAC.Main" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.*" />
+          <option name="PATTERN" value="PersonalProjects.TelegramBotAAC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main" />
+    <configuration name="Year1.Semester2.OOP1.Lesson3.SalesmanSolve.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year1.Semester2.OOP1.Lesson3.SalesmanSolve.Main" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.*" />
+          <option name="PATTERN" value="Year1.Semester2.OOP1.Lesson3.SalesmanSolve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +307,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semester2.ProgrammingWorkshop.Lesson5.API.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Semester2.ProgrammingWorkshop.Lesson5.API.Main" />
+    <configuration name="Year1.Semester2.OOP1.Lesson5.Seker.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Year1.Semester2.OOP1.Lesson5.Seker.Main" />
       <module name="CompSc" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Semester2.ProgrammingWorkshop.Lesson5.API.*" />
+          <option name="PATTERN" value="Year1.Semester2.OOP1.Lesson5.Seker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,18 +323,18 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.PersonalProjects.TelegramBotAAC.Main" />
+        <item itemvalue="Application.Year1.Semester2.OOP1.Lesson3.SalesmanSolve.Main" />
         <item itemvalue="Application.MainWindow" />
-        <item itemvalue="Application.Semester2.OOP1.Lesson4.PhilosofProblem.NoSwing.Main" />
-        <item itemvalue="Application.Semester2.ProgrammingWorkshop.Lesson5.API.Main" />
-        <item itemvalue="Application.Semester2.ProgrammingWorkshop.Lesson4.ImageManipulation.desLines.Main" />
+        <item itemvalue="Application.Year1.Semester2.OOP1.Lesson5.Seker.Main" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
       </set>
     </attachedChunks>
   </component>
@@ -180,44 +346,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743425183421</updated>
-      <workItem from="1743425184524" duration="20722000" />
-      <workItem from="1745238024664" duration="7633000" />
-      <workItem from="1745841685835" duration="6739000" />
-      <workItem from="1746447190744" duration="7102000" />
-      <workItem from="1746859469564" duration="7935000" />
+      <workItem from="1743425184524" duration="8699000" />
+      <workItem from="1747925257082" duration="2620000" />
+      <workItem from="1748167211854" duration="606000" />
+      <workItem from="1748456547270" duration="606000" />
+      <workItem from="1748529746260" duration="1169000" />
+      <workItem from="1749805736466" duration="4979000" />
+      <workItem from="1749977230697" duration="24371000" />
+      <workItem from="1750052336938" duration="46000" />
+      <workItem from="1750075823707" duration="5584000" />
+      <workItem from="1750081520802" duration="3500000" />
     </task>
-    <task id="LOCAL-00001" summary="REGULAR">
+    <task id="LOCAL-00001" summary="regular">
       <option name="closed" value="true" />
-      <created>1743451654697</created>
+      <created>1749977248518</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1743451654697</updated>
+      <updated>1749977248518</updated>
     </task>
-    <task id="LOCAL-00002" summary="REGULAR">
-      <option name="closed" value="true" />
-      <created>1743451858719</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1743451858719</updated>
-    </task>
-    <task id="LOCAL-00003" summary="REGULAR">
-      <option name="closed" value="true" />
-      <created>1743452353908</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1743452353908</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="REGULAR" />
-    <option name="LAST_COMMIT_MESSAGE" value="REGULAR" />
+    <MESSAGE value="regular" />
+    <option name="LAST_COMMIT_MESSAGE" value="regular" />
   </component>
 </project>
