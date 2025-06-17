@@ -1,0 +1,7 @@
+package Year1.Semester2.OOP1.Exes.AviaStudentExe;
+
+public enum Subject {
+    MATH,
+    CS,
+    PHYSICS
+}
