@@ -23,12 +23,17 @@ public class MyBot extends TelegramLongPollingBot {
         System.out.println(update.getMessage().getText());
         long chatId = update.getMessage().getChatId();
         String text = update.getMessage().getText();
+        String responseFromChatGpt;
+        if (text.equals("balance")){
+            responseFromChatGpt = ApiManager.ApiRequestGetMessage(text, RequestType.CHECK_BALANCE);
+        } else if (text.equals("clear")){
+            responseFromChatGpt = ApiManager.ApiRequestGetMessage(text, RequestType.CLEAR_HISTORY);
+        } else {
+            responseFromChatGpt = ApiManager.ApiRequestGetMessage(text, RequestType.SEND_MESSAGE);
+        }
 
-
-
-//        String responseFromChatGpt = ApiManager.ApiRequestGetMessage(text);
-//        System.out.println(responseFromChatGpt);
-//        sendResponse(chatId, responseFromChatGpt);
+        System.out.println(responseFromChatGpt);
+        sendResponse(chatId, responseFromChatGpt);
     }
 
     public void sendResponse(long chatId, String text){

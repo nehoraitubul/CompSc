@@ -42,6 +42,10 @@ public class ApiManager {
             JSONObject jsonObject = new JSONObject(response.body().string());
             System.out.println(jsonObject);
 
+
+            if (RequestType.CLEAR_HISTORY == type){
+                return "History chat has been cleared!";
+            }
             return jsonObject.getString("extra");
 
 
